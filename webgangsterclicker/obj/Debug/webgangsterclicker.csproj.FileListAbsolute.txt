@@ -1,0 +1,12 @@
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\bin\Debug\webgangsterclicker.exe.config
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\bin\Debug\webgangsterclicker.exe
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\bin\Debug\webgangsterclicker.pdb
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.Form1.resources
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.Properties.Resources.resources
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.csproj.CopyComplete
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.exe
+C:\Users\Pedro\source\repos\webgangsterclicker\webgangsterclicker\obj\Debug\webgangsterclicker.pdb
